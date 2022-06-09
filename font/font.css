@@ -1,0 +1,6 @@
+
+.header, h1, h2, h3, h4, h5, h6, p, .div, .btn, .form
+{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 300;
+}
